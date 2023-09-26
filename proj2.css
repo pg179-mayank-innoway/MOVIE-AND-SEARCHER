@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+form{
+    display : inline;
+}
+section{
+    display : block;
+    text-align: center;
+    margin-bottom: 4px;
+}
+#name{
+    border-color :  red;
+    width : 50%;
+    height : 35px;
+}
+#base{
+    display : flex;
+    flex-wrap: wrap;
+    align-content  : space-between;
+    justify-content: space-between;
+
+}
